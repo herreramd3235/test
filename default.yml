@@ -11,6 +11,9 @@ agent_options:
   path: ./lib/agent-options.yml
 controls:
 org_settings:
+  org_settings:
+    org_info:
+      org_name: "Dudes of Hazmat"
   host_expiry_settings:
     host_expiry_enabled: false
     host_expiry_window: 30
