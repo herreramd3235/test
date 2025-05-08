@@ -12,7 +12,7 @@ agent_options:
 controls:
 org_settings:
   org_info:
-    org_name: Dudes of Hazmat
+    org_name: "Dudes of Hazmat"
   host_expiry_settings:
     host_expiry_enabled: false
     host_expiry_window: 30
