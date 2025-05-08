@@ -12,6 +12,10 @@ agent_options:
 controls:
 org_settings:
   webhook_settings:
+    failing_policies_webhook:
+      enable_failing_policies_webhook: true
+      destination_url: https://example.org/webhook_handler
+      host_batch_size: 0
     activities_webhook:
       enable_activities_webhook: true
       destination_url: https://example.com
